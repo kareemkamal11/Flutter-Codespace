@@ -1,6 +1,6 @@
 {
-	"dart.flutterSdkPath": "~/flutter",
+	"dart.flutterSdkPath": "../flutter", //.. تعني الخروج من المجلد الحالي
 	"terminal.integrated.env.linux": {
-		"PATH": "~/flutter/bin/:${env:PATH}",
+		"PATH": "../flutter/bin/:${env:PATH}",
 	},
 }
